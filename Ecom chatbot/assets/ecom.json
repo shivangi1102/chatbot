@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "viastore-boco",
+  "private_key_id": "e861bfff82eb3aa175d0f09b28c21ce1eb460e2d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCtS+Ygs3mmFBY1\nCMXHGU0IPwXFxnY1AqnjpS9JyW7oNd9rc2VX3Kwviqsy5GRiPthcineTxB6Kbvpq\ne6nbv4jlqA7fpbdw1Mx8rRutCgJycFCG1NMIgNR4RGxVUiDmzvxoD9uWezDWvafT\nykO3sk+bs8PD9vi/q4jgbrcR71e6fbR4nSBZhcqKIFBTzM4rKm8lFo/Bvl0kptMv\njiNq/VPDtj/2yMK0yJ6H2mTxWAGN+FdOwACiJ2GcF5Pyt1q9naxIi/GBLkNYueky\nYX3EYCT3cROI1G/FaRlTT1kekCdWBqcxiokByvcYBdD94xCTIDKhlbHZ6NmykMov\nDvSu2L3vAgMBAAECggEAFqcGhzJurbLlJDw9U2/kjeC5vxyDdHJ2BU0hB/gjXd83\nkTLIWy/RTMryOKN6K7gjTWrG2V3ter2ppiRRaRQkWkDEO5/MgXHk46HiguqoCeV8\ni+NjTTKUk2lTmo4zFs3qWH/vfZV6Ji0sXuw1kIbnuRFKfwyC1NXLUpWmVdsqEIpe\niFOI6hrZQBBZWe55EClwPRqFZukeV4cJ5aH6a4+S5yGxm3fljU9plbyax2BP6OBL\nsk02kOxyMFMOLojQ5ipfnZbAXPxwOpwyDFsVGyxLJfRHCjRddCPIM+UmwF76bZhj\nFLgZYeFPfH1Q2OnhLyM+76OMFrffuWLGURPAdIVwQQKBgQDtawtjWfZxQUAQZCXj\nXCXmCqAtnojqJOmi48ewUpW2ocmT3JEbpxT63/AGLhleVKKLzrxvwZtSWKhudOcG\nKh5hYfOSmcMtuTgq4S3M9jyFOQxpeOtyVc07Pcc0iPvvp0dG8mK37meX/gP2psaz\nAQVcvHbJRWCUXRaP6akkEpqLCQKBgQC63Bm61mhmdz8yR/POmY0wkquKYJ0B0lrZ\nnUzsN03hYn6Pa2pDpUfafL0NPd94g+C3D91efWdt6RwTZPsZrUIob7+ZUtrFkHkJ\npXqR5fbPNfu5cpUguRWzijw9cQekhS96T8uN1si8C2Z1tNze4AcM9BFenHZjLfT1\nBqklWeKnNwKBgQCZDNCik3QTPoUWC/mAv/6OdXsc7X5FstYKc9xfBl4NBe70qtPA\nh802jPYmhcFE1jqS9grz4FNImm66BhKIHs7G6GYks4rnBuf2fIMSBgqtt0ERHSpq\n4nUTI5gvfb8rlyKT0d1hxQZzLQVRE+IzswzJ45SP23GPMxNAYtjusC+AQQKBgFUI\nGdFTBlkyhJid842dhImJBPTIeEo+7ka+9SU9GXyp9IvRRp8X1HXRc7pV4J6X7KeB\nWaxJBssWXEdbGYUaudNq3tanxJRI5TuFiRxheInct/sw8Dne38g+7KDNEbxFO1C+\nhRO7nMctrOd9cVEewzaazliufJUvcZwa9tffamvLAoGAFEmMVuMz5tX0JduAExui\nZSbl+pODzJjSaKE+gaCy7KErA4BCR7ibBsp192E3WKXqESmM/VX3Gh2bXasV7vIm\n6jk9UW9y1R9fDadHyrBaIIsxP9PVnuhBsyPjBZqbkpe2PVVxuXPQI8ngtLzmCW2q\nocNRZK0tjGHxO4oC2JlQkTs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-ejisjy@viastore-boco.iam.gserviceaccount.com",
+  "client_id": "116660203283065578186",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-ejisjy%40viastore-boco.iam.gserviceaccount.com"
+}
