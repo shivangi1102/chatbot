@@ -1,4 +1,4 @@
-# covid_chatbot
+# Ecom Chatbot
 
 A new Flutter project.
 
